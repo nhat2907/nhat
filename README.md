@@ -1,3 +1,3 @@
 # DDosTelegramBot
-# Made by Jailbreaked Gemini
-# No copyright.
+Made by Jailbreaked Gemini.
+No copyright.
